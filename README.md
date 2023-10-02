@@ -29,7 +29,7 @@
 ## Installation
 
 ```bash
-$ npm installhjk
+$ npm installhj
 ```
 
 ## Running the app
