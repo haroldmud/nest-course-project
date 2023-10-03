@@ -29,7 +29,7 @@
 ## Installation
 
 ```bash
-$ npm installsdfg
+$ npm installsdf
 ```
 
 ## Running the app
