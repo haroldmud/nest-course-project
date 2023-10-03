@@ -29,7 +29,7 @@
 ## Installation
 
 ```bash
-$ npm installsdfghjk
+$ npm installsdfghj
 ```
 
 ## Running the app
