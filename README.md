@@ -29,7 +29,7 @@
 ## Installation
 
 ```bash
-$ npm installsd
+$ npm installs
 ```
 
 ## Running the app
