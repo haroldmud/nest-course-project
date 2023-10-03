@@ -29,7 +29,7 @@
 ## Installation
 
 ```bash
-$ npm installsdf
+$ npm installsd
 ```
 
 ## Running the app
